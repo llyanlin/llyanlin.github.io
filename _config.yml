@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: '橙子惠选'
+description: '橙子惠选(chengzihuixuan.com)是一家聚线上线下优惠活动为一体的导购网站，实时整合全网最新的优惠信息，上百万优惠产品，总有一款适合您的。网上购物找羊毛、找折扣、找优惠券，周边活动找优惠，就到橙子惠选。'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 # baseurl: '/mundana-theme-jekyll'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'lillianlin181@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
