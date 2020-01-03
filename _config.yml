@@ -91,15 +91,15 @@ comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
-disqus:
-    username:
+#disqus:
+#    username:
 # https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: llyanlin
-    repo: blog-comments
-    oauth:
-        client_id: efb3988f19c1e8be537b
-        client_secret: a69a4ea88f6d99b3e51ad02f2ee4677ec9968b8f
+#gitment:
+#    owner: llyanlin
+#   repo: blog-comments
+#   oauth:
+#       client_id: efb3988f19c1e8be537b
+#       client_secret: a69a4ea88f6d99b3e51ad02f2ee4677ec9968b8f
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: llyanlin
@@ -107,7 +107,7 @@ gitalk:
     clientID: efb3988f19c1e8be537b
     clientSecret: a69a4ea88f6d99b3e51ad02f2ee4677ec9968b8f
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
+#lazy_load_disqus : false
 
 # ---------------- #
 #      Search      #
