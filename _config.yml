@@ -1,13 +1,13 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: 
-url: https://chengzihuixuan.com/
+baseurl:
+url: https://mazhuang.org
 date_format: "ordinal"
-title: 橙子惠选
-subtitle: "橙子|选你所爱"
-description: "橙子惠选(chengzihuixuan.com)是聚线上线下优惠活动为一体的导购网站，实时整合全网最新的优惠信息，上百万优惠产品，总有一款适合您的。网上购物找羊毛、找折扣、找优惠券，周边活动找优惠，就到橙子惠选。"
-keywords: 橙子惠选, chengzihuixuan, 惠选, 导购，折扣，优惠券，比价，优选
+title: 码志
+subtitle: "打码改变人生"
+description: "马壮的个人博客"
+keywords: 码志, Zhuang Ma, mzlogin, mazhuang
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
