@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: http://chengzihuixuan.com/
-url: http://chengzihuixuan.com/
+baseurl: 
+url: https://chengzihuixuan.com/
 date_format: "ordinal"
 title: 橙子惠选
 subtitle: "橙子选你所爱"
