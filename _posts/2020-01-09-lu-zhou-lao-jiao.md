@@ -2,7 +2,7 @@
 layout: post
 title: 【深圳会员】泸州老窖 43度 国窖1573 100ml 小酒版 【包邮】
 categories: Excel
-description: 将 Excel 里的数据使用 VBA 导入 Word 表格中。
+description: 泸州老窖 43度 国窖1573 100ml 小酒版。
 keywords: 泸州老窖, 新年礼, 国窖
 ---
 
@@ -22,6 +22,6 @@ keywords: 泸州老窖, 新年礼, 国窖
 ![](/images/posts/lu-zhou-lao-jiao.jpg)
 
 
-
+### 购买需知
 
 ![](/images/posts/lu-zhou-lao-jiao2.jpg)
