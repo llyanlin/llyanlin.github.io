@@ -24,4 +24,4 @@ keywords: 泸州老窖, 新年礼, 国窖
 
 ### 购买需知
 
-![](/images/posts/lu-zhou-lao-jiao2.jpg)
+![](/images/posts/lu-zhou-laojiao2.jpg)
