@@ -1,5 +1,6 @@
 .home .banner,
 .home .site-header {
+
     background: #FFA500;
     color: #fff
 }
@@ -12,7 +13,8 @@
 }
 
 .home .site-header {
-    border-bottom: none
+    border-bottom: none;
+    background: #075156
 }
 
 .home .site-header h1 a {
