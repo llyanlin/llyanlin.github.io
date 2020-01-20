@@ -1,7 +1,6 @@
 .home .banner,
 .home .site-header {
-
-    background: #FFA500;
+    background-image: url(/assets/images/bg.jpg);
     color: #fff
 }
 
