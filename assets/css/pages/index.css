@@ -1,6 +1,6 @@
 .home .banner,
 .home .site-header {
-    background-image: url(/assets/images/bg.jpg);
+    background-image: url(/assets/images/bg_02_02.jpg);
     color: #fff
 }
 
@@ -13,7 +13,7 @@
 
 .home .site-header {
     border-bottom: none;
-    background: #075156
+    background-image: url(/assets/images/bg_02_01.jpg);
 }
 
 .home .site-header h1 a {
