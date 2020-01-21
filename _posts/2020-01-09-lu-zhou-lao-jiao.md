@@ -6,6 +6,7 @@ description: 泸州老窖 43度 国窖1573 100ml 小酒版。
 keywords: 泸州老窖, 新年礼, 国窖
 ---
 
+泸州老窖 43度 国窖1573 100ml 小酒版。
 ![](/images/posts/lu-zhou-lao-jiao3.jpg)
 
 ### 抢购方式
