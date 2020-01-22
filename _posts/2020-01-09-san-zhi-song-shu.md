@@ -4,6 +4,7 @@ title: 使用 VBA 将 Excel 数据导入到 Word 表格中
 categories: Excel
 description: 将 Excel 里的数据使用 VBA 导入 Word 表格中。
 keywords: Excel, VBA, Word
+xdurl: https://m.tb.cn/h.V0hqzoX
 ---
 
 现要求将一个 Excel 数据表中的每行数据导成一个 Word 文档，即有多少行数据就生成多少个 Word 文档，Excel 每列与 Word 文档中的表格项一一对应。
