@@ -11,3 +11,4 @@ ava: /images/new/xxx.jpg
 
 
 Content here
+<!-- 标题25字以内，第一句摘要25字以内         --->
