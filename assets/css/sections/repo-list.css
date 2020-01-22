@@ -4,9 +4,11 @@
 .repo-list .participation-graph{position:absolute;right:0;bottom:0;left:0;z-index:-1}
 .repo-list .participation-graph.disabled{display:none}
 .repo-list .participation-graph .bars{position:absolute;bottom:0}
-.repo-list-item{position:relative;padding-top:30px;padding-bottom:30px;list-style:none;border-bottom:1px solid #eee}
+.repo-list-item{position:relative;padding-top:20px;padding-bottom:20px;list-style:none;border-bottom:1px solid #eee}
 .repo-list-name{margin:0 0 8px;font-size:20px;line-height:1.2}
 .repo-list-name:hover{text-decoration:none;color:#4169E1}
+.repo-list-name-img{float:left}
+.repo-list-name a{margin:0px}
 .repo-list-name .slash{margin-right:-4px;margin-left:-4px}
 .repo-list-description{max-width:550px;margin-top:8px;margin-bottom:0;font-size:14px;color:#666}
 .repo-list-stats{margin-top:6px;float:right;font-size:12px;font-weight:700;color:#888}
