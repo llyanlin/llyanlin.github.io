@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【深圳会员】泸州老窖 43度 国窖1573 100ml 小酒版 【包邮】
+title: 【深圳会员】泸州老窖 43度 国窖1573 100ml 小酒版
 categories: Excel
 description: 泸州老窖 43度 国窖1573 100ml 小酒版。
 keywords: 泸州老窖, 新年礼, 国窖
