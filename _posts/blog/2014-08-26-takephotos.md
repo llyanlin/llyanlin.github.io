@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 摄影教训总结
-categories: Blog
+categories: 周边玩乐
 description: 历次出游摄影的一些失败的点。
 keywords: 摄影, 教训
 xdurl: https://m.tb.cn/h.V0hqzoX
