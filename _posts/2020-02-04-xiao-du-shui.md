@@ -27,7 +27,7 @@ yue: 30万
 
 #### 用手机淘宝扫描下方二维码即可立即购买：
 
-![84消毒液大瓶家用](/images/shenghuo/0204/84img.jpg)
+![84消毒液大瓶家用](/images/shenghuo/0204/84img.png)
 
 
 ## 商品介绍
