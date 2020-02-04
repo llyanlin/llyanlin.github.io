@@ -37,7 +37,7 @@ comments: false
 
             <ol class="repo-list">
                 {% for post in paginator.posts %}
-                <img class="repo-list-name-img" src="{{ post.ava }}">
+                <a href="{{ site.url }}{{ post.url }}"><img class="repo-list-name-img" src="{{ post.ava }}"></a>
 
                 <li class="repo-list-item">
 
