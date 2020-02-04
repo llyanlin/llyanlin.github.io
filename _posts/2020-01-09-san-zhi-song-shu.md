@@ -1,14 +1,18 @@
 ---
 layout: post
-title: 使用 VBA 将 Excel 数据导入到 Word 表格中
-categories: 美妆护肤
-description: 将 Excel 里的数据使用 VBA 导入 Word 表格中。
+title: 84消毒液家用杀菌大瓶装消毒水
+categories: 日常生活
+description: 顺丰包邮 84消毒液家用杀菌大瓶装消毒水
 keywords: Excel, VBA, Word
-xdurl: https://m.tb.cn/h.V0hqzoX
-ava: /images/new/ava1.jpg
+xdurl: https://s.click.taobao.com/xV0Ucpv
+ava: /images/shenghuo/84xiaoduye.jpg
+
 ---
 
-现要求将一个 Excel 数据表中的每行数据导成一个 Word 文档
+大瓶装消毒水84消毒液家用杀菌
+
+
+
 
 ## 实现
 现要求将一个 Excel 数据表中的每行数据导成一个 Word 文档，即有多少行数据就生成多少个 Word 文档，Excel 每列与 Word 文档中的表格项一一对应。
