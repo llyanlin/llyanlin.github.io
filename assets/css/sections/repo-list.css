@@ -5,7 +5,7 @@
 .repo-list .participation-graph.disabled{display:none}
 .repo-list .participation-graph .bars{position:absolute;bottom:0}
 .repo-list-item{position:relative;padding-top:20px;padding-bottom:20px;height:190px;list-style:none;border-bottom:1px solid #eee}
-.repo-list-name{margin:0 0 8px 170px;font-size:20px;line-height:1.2}
+.repo-list-name{margin:0 0 8px 0px;font-size:20px;line-height:1.2}
 .repo-list-name:hover{text-decoration:none;color:#4169E1}
 .repo-list-name-img{float:left;width:24%;height:150px;margin-right:15px}
 .repo-list-name .slash{margin-right:-4px;margin-left:-4px}
