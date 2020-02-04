@@ -10,17 +10,18 @@ yue: 1.3万
 ---
 
 
-
-
 ## 信息说明
+![移动200元话费](/images/shenghuo/0204/10086pic.png)
 ### 全国通用移动200元话费充值卡中国秒冲
- <img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" /> <img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" /><img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" />
+ <img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" />
 <span style="color:#E53333;">**2小时销量达7317件**</span>
+<img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" />
 
 **~~原价185.00元~~**
 
-<img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" /><img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" /><img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" />
+<img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" />
 <span style="color:#E53333;">**券后价仅125.00元**</span>
+<img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" />
 
 <img src="http://kindeditor.net/ke4/plugins/emoticons/images/87.gif" border="0" alt="" />**[【立即领券购买>>>】](https://s.click.taobao.com/9CXjbpv)**<img src="http://kindeditor.net/ke4/plugins/emoticons/images/87.gif" border="0" alt="" />
 
