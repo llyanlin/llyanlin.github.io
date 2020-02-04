@@ -39,7 +39,7 @@ comments: false
                 <li class="repo-list-item">
                     <img class="repo-list-name-img" src="{{ post.ava }}">
                     <h3 class="repo-list-name">
-                      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                      <a href="{{ site.url }}{{ post.url }}">{{ post.title | slice: 0，10}}</a>
                     </h3>
                     <p class="repo-list-description">
                         {{ post.excerpt | strip_html | strip }}
