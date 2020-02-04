@@ -14,14 +14,14 @@ yue: 1.3万
 
 ## 信息说明
 ### 全国通用移动200元话费充值卡中国秒冲
-
-<span style="color:#E53333;"> :fa-user:</span>**2小时销量达7317件  **
+ <img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" /> <img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" /><img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" />
+<span style="color:#E53333;">**2小时销量达7317件**</span>
 
 **~~原价185.00元~~**
-<span style="color:#E53333;">:fa-heartbeat:</span>
-**券后价仅125.00元**
+<img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" /><img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" /><img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" />
+<span style="color:#E53333;">**券后价仅125.00元**</span>
 
-**[【立即领券购买>>>】](https://s.click.taobao.com/9CXjbpv)**
+<img src="http://kindeditor.net/ke4/plugins/emoticons/images/87.gif" border="0" alt="" />**[【立即领券购买>>>】](https://s.click.taobao.com/9CXjbpv)**<img src="http://kindeditor.net/ke4/plugins/emoticons/images/87.gif" border="0" alt="" />
 
 
 #### 用手机淘宝扫描下方二维码即可立即购买：

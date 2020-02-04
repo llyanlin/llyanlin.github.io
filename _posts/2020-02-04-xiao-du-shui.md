@@ -14,15 +14,18 @@ yue: 30万
 ## 信息说明
 ### 84消毒液家用杀菌大瓶装消毒水衣物漂白洁厕除臭地板宠物除菌宾馆
 
-<span style="color:#E53333;"> :fa-user:**2小时销量达8660件 ** </span>
+ <img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" /> <img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" /><img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" />
+
+<span style="color:#E53333;">**2小时销量达8660件** </span>
 
 
 **~~原价49.90元~~**
-<span style="color:#E53333;">
-:fa-heartbeat:**券后价仅29.90元**
-</span>
+<img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" /><img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" /><img src="http://kindeditor.net/ke4/plugins/emoticons/images/100.gif" border="0" alt="" />
 
-**[【立即领券购买>>>】](https://s.click.taobao.com/59xmbpv)**
+<span style="color:#E53333;">**券后价仅29.90元**</span>
+
+
+<img src="http://kindeditor.net/ke4/plugins/emoticons/images/87.gif" border="0" alt="" />**[【立即领券购买>>>】](https://s.click.taobao.com/59xmbpv)**<img src="http://kindeditor.net/ke4/plugins/emoticons/images/87.gif" border="0" alt="" />
 
 
 #### 用手机淘宝扫描下方二维码即可立即购买：
