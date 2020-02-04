@@ -6,6 +6,7 @@ description: some word here
 keywords: keyword1, keyword2
 xdurl: https://xxx/xxxx
 ava: /images/new/xxx.jpg
+yue: 1.3万
 ---
 
 

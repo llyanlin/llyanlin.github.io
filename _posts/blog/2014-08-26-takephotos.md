@@ -6,6 +6,7 @@ description: 历次出游摄影的一些失败的点。
 keywords: 摄影, 教训
 xdurl: https://m.tb.cn/h.V0hqzoX
 ava: /images/new/ava2.jpg
+yue: 1.3万
 ---
 
 
