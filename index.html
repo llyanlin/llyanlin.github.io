@@ -34,10 +34,13 @@ comments: false
 <section class="container content">
     <div class="columns">
         <div class="column two-thirds" >
+
             <ol class="repo-list">
                 {% for post in paginator.posts %}
+                <img class="repo-list-name-img" src="{{ post.ava }}">
+
                 <li class="repo-list-item">
-                    <img class="repo-list-name-img" src="{{ post.ava }}">
+
                     <h3 class="repo-list-name">
                       <a href="{{ site.url }}{{ post.url }}">{{ post.title}}</a>
                     </h3>
