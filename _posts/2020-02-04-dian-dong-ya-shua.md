@@ -11,7 +11,7 @@ yue: 20万
 
 ---
 
-<div align=center>![](/images/shenghuo/0204/yashua1.jpg)
+<center>![](/images/shenghuo/0204/yashua1.jpg)</center>
 
 ### 宝贝信息
 **电动牙刷成人非充电式超声波全自动美白学生党软毛情侣套装男士女**
