@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'LillyanLin的造作空间'
-description: '我是 LillyanLin，一名 Technical Writer，喜欢折腾生活，也喜欢折腾自己。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: 'LillyanLin, LillyanLin的独立博客, LillyanLin的博客, 技术, 网站, PMP,  python, 设计，ps，办公小技巧，生活笔录'
+title: 'LillianLin的造作空间'
+description: '我是 LillianLin，一名 Technical Writer，喜欢折腾生活，也喜欢折腾自己。很高兴能在这里与你分享我对技术和生活的思考。'
+keyword: 'LillianLin, LillianLin 的独立博客, LillianLin的博客, 技术, 网站, PMP,  python, 设计，ps，办公小技巧，生活笔录'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -24,7 +24,7 @@ footer:
   since: 2020
 
 # Author 配置博主信息
-author: 'LillyanLin'
+author: 'LillianLin'
 nickname: 'Lin'
 bio: '一名 Technical Writer，热爱技术&设计，简单乐观爱创造'
 avatar: '/assets/img/profile.png'
