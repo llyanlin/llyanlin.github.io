@@ -1,125 +1,37 @@
-# ---------------- #
-#   Main Configs   #
-# ---------------- #
-baseurl:
-url: https://chengzihuixuan.com
-date_format: "ordinal"
-title: 橙子惠选
-subtitle: "选你所爱 | 为你而来"
-description: "橙子惠选(chengzihuixuan.com)是聚线上线下优惠活动为一体的导购网站，实时整合全网最新的优惠信息，上百万优惠产品，总有一款适合您的。网上购物找羊毛、找折扣、找优惠券，周边活动找优惠，就到橙子惠选。"
-keywords: 橙子惠选, chengzihuixuan, 惠选, 导购，折扣，优惠券，比价，优选
-timezone: Asia/Shanghai
-encoding: "utf-8"
-side_bar_repo_limit: 5
+title: Hello, world! I'm David Freeman
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
 
-# ---------------- #
-#      Author      #
-# ---------------- #
-author: Lillian Lin
-organization:
-organization_url:
-github_username: llyanlin
-location: shenzhen, China
-email: lillianlin181@gmail.com
+# Author Settings
+author: David Freeman # add your name
+author-img: david-freeman.jpg # add your photo
+about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: artemsheludko # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: # add your Email address
 
-# ---------------- #
-#    Navigation    #
-# ---------------- #
-navs:
-  -
-    href: /
-    label: 首页
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
 
-  -
-    href: /categories/
-    label: 分类
+# Tracker
+analytics: # Google Analytics
 
-#   -
-#     href: /archives/
-#     label: 归档
-
-  -
-    href: /wiki/
-    label: 生活周边
-
-  -
-    href: /links/
-    label: 链接
-
-  -
-    href: /about/
-    label: 关于
-
-# ---------------- #
-#       RSS        #
-# ---------------- #
-subscribe_rss: /feed.xml
-
-# ---------------- #
-#      Jekyll      #
-# ---------------- #
+# Build Settings
 markdown: kramdown
-kramdown:
-    input: GFM
-highlighter: rouge
-paginate: 10
-lsi: false
-quiet: false
-excerpt_separator: "\n\n"
-permalink: /:year/:month/:day/:title/
-gems:
-    - jekyll-github-metadata
-    - rouge
-#     - jekyll-html-pipeline
-    - jekyll-paginate
-    - jekyll-sitemap
-    - jekyll-feed
-    - jemoji
-#     - jekyll-mentions
-collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
 
-repository: llyanlin/llyanlin.github.io
+paginate: 8
+paginate_path: "/page/:num"
 
-# ---------------- #
-#      Comments    #
-# ---------------- #
-# support provider: disqus, gitment, gitalk
-comments_provider: gitalk
-# !!!重要!!! 请修改下面这些信息为你自己申请的
-# !!!Important!!! Please modify infos below to yours
-# https://disqus.com
-disqus:
-    username:
-# https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: llyanlin
-    repo: blog-comments
-    oauth:
-        client_id: efb3988f19c1e8be537b
-        client_secret: a69a4ea88f6d99b3e51ad02f2ee4677ec9968b8f
-# https://github.com/gitalk/gitalk#install
-gitalk:
-    owner: llyanlin
-    repo: blog-comments
-    clientID: efb3988f19c1e8be537b
-    clientSecret: a69a4ea88f6d99b3e51ad02f2ee4677ec9968b8f
-# 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : false
-
-# ---------------- #
-#      Search      #
-# ---------------- #
-simple_jekyll_search:
-    # 是否支持全文搜索
-    fulltext: false
-    # 最多显示多少条搜索结果
-    limit: 10
-
-# ---------------- #
-#    Analytics     #
-# ---------------- #
-google:
-    analytics_id: UA-80669434-1
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
