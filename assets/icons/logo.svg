@@ -1,20 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60px" height="26px" viewBox="0 0 60 26" enable-background="new 0 0 60 26" xml:space="preserve">  <image id="image0" width="60" height="26" x="0" y="0"
-    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAaCAQAAABBAPfSAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
-AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElN
-RQfkAwkXITmxWu5wAAACYElEQVRIx8WW0XHcIBRFjzIpgA5CCaQC04HVQeggcgWMK2BSAeMKNK4A
-dyB3IKUCuYOXD5BW0np3tbueCfzsPhAHHvddqRL+T/u+b1qlcDyiGQAYeJKPO8lysaPwCBEzRywJ
-tZrjSPjLay2euDjB0NNjN1FHs9hYR8QQvxCMY6Rbn66MpCVWIKG/DEyNfI6dwDPWX5fos2AMI/0J
-rCEUbI/CXZfmS+AOOQhqMxaoBSKCxWyldhcYhxBOjCm6chHtbdhz4J7x1IK0WBQjQn0b9iQYg0z3
-RkDoFmMNQaBFGJdYDO1+iZ1LdC0IaARhXIwkAYsgtMvT0iK094I9khfFkvCTyGhyedEfQ7D4/Wn/
-dsZMPwDkDXiVd6hM1fJDfspH5dHAn5WbG+B17eCVqXR2+spWapdXY5H5tyYSiMTsTQTkoIB5zois
-bxhHRNDUtIStVE+BFePWn0s85TtfGyQRWZsNDo9DaIhFM3YHWMBPbryI1fR0CHJ4Rcw1UMQ4RyKK
-HiGVY+wFCwTSLCqFo8VTH6dZIGWAgMOVbeeXaY8qeu/zC3YHWMASafEEWhoUhvETbC4tk8+5yYIt
-Die4yWhPgGloSaV73CFB1Iz0y4Qu6jeW+1erLAShlF6u/YUFH2M9FovFkxhLOBFIdDmNn1qBQh0u
-RqBBJh3nfKDXmtkuYkgEmgKvi4an3hGoN2WRBadX2FxcbkYkNHH9XHX8lVkZlsU+yFBpah6o59g7
-b/zlHc0vBp74DbzIMK9geQB5Lv8cjww8b8zlms/byvKARh82xYu83faReRX4K9u3+5e4rf0DVOsG
-394y1PgAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDMtMDlUMTU6MzM6NTcrMDg6MDDIt3nnAAAA
-JXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAzLTA5VDE1OjMzOjU3KzA4OjAwuerBWwAAABl0RVh0U29m
-dHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAAASUVORK5CYII=" />
-</svg>
+﻿<br />
+<b>Warning</b>:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in <b>/mnt/www/www.bejson.com/api/2020/image_to_svg.php</b> on line <b>7</b><br />
+<br />
+<b>Warning</b>:  file_get_contents(http://qntemp2.bejson.com/upload/73182363536441680.png?imageView2/0/format/svg/q/75|imageslim&amp;attname=1.svg): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in <b>/mnt/www/www.bejson.com/api/2020/image_to_svg.php</b> on line <b>7</b><br />
