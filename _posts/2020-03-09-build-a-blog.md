@@ -45,8 +45,10 @@ tags: jekyll 博客 GithubPages
 ![](/assets/img/blog/blog8.png)
 
 选择之后，页面会进行刷新，稍等片刻，刷新完成后，再回到 GitHub Page 模块，
-你会看到一行提示：
-` Your site is published at https://lillianlin2018.github.io/`
+你会看到一行提示如：
+```
+Your site is published at https://xxxxx.github.io/
+```
 https://xxxxx.github.io （xxxxx是你一开始注册的 github 账号名）就是你的博客的页面网址了。
 ![](/assets/img/blog/blog5.png)
 
