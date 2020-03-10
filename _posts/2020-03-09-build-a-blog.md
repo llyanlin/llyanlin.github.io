@@ -4,7 +4,7 @@ title: '三分钟教你搭建属于自己的博客'
 subtitle: '不用敲代码也能搭建属于自己的博客。'
 date: 2020-03-09
 categories: 个人博客
-cover: 'assets/img/cover.png'
+cover: 'assets/img/blog/cover.png'
 tags: jekyll 博客 github pages
 ---
 
