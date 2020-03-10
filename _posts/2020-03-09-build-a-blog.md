@@ -24,35 +24,35 @@ tags: jekyll 博客 github pages
 首先，我们是通过 *GitHub* *Page* 发布个人网页，所以首先你得拥有属于你的 github 账号。
 
 拥有 github 帐号：到 [github]( https://github.com/ ) 官网注册一个账号：https://github.com/join?source=login  （注意，这里一定要记住你的用户名，后面要用到）
-![](assets/img/blog/blog1.png)
+![](/assets/img/blog/blog1.png)
 其次，你得了解一下 markdown 语法：https://markdown-zh.readthedocs.io/en/latest/
 
 
 ## 第一步
 创建你的 github 仓库（Repository）。
 点击右上角【+】- 【New repository】，
-![](assets/img/blog/blog2.png)
+![](/assets/img/blog/blog2.png)
 
 填写你的仓库名称，描述，并配置一个 readme 文档。点击【Create  repository】创建成功。
-![](assets/img/github blog/github blog3.png)
+![](/assets/img/blog/blog3.png)
 **注意**，这里要用 xxxxx.github.io 作为仓库名字，xxxxx 是你注册 github 账号时填写的账号名。
 
 ## 第二步
 为你的仓库开启 GitHub Page 功能。点击右上【Settings】，
-![](assets/img/blog/blog4.png)
+![](/assets/img/blog/blog4.png)
 
 往下滚动页面，找到 GitHub Page 模块，【Source 】选择 master。
-![](assets/img/blog/blog8.png)
+![](/assets/img/blog/blog8.png)
 
 选择之后，页面会进行刷新，稍等片刻，刷新完成后，再回到 GitHub Page 模块，
 你会看到一行提示：` Your site is published at https://lillianlin2018.github.io/`
 https://xxxxx.github.io （xxxxx是你一开始注册的 github 账号名）就是你的博客的页面网址了。
-![](assets/img/blog/blog5.png)
+![](/assets/img/blog/blog5.png)
 
 ## 第三步
 我们再次回到你仓库的【Settings】里，滚动到 GitHub Page 模块，点击【Choose a theme】选择一个你喜欢的模板。确认后，编辑你的第一篇博客文章，并提交更改。
-![](assets/img/blog/blog6.png)
+![](/assets/img/blog/blog6.png)
 
 使用浏览器打开：https://xxxxx.github.io （xxxxx是你一开始注册的 github 账号名）
 灯灯灯灯~，恭喜你，拥有了属于你的博客网站，你可以随便折腾它了。
-![](assets/img/blog/blog7.png)
+![](/assets/img/blog/blog7.png)
