@@ -56,10 +56,10 @@ postPatterns: 'glamorous'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  weibo: '///weibo.com/5huihua'
+#  zhihu: '//juejin.im/user/57a6f434165abd006159b4cc'
+#  douban: '//www.instagram.com/steveliaocn'
+  github: '//github.com/llyanlin'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
