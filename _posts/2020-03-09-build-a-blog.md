@@ -5,7 +5,7 @@ subtitle: '不用敲代码也能搭建属于自己的博客。'
 date: 2020-03-09
 categories: 个人博客
 cover: 'assets/img/blog/cover.png'
-tags: jekyll 博客 github pages
+tags: jekyll 博客 GithubPages
 ---
 
 
@@ -45,7 +45,8 @@ tags: jekyll 博客 github pages
 ![](/assets/img/blog/blog8.png)
 
 选择之后，页面会进行刷新，稍等片刻，刷新完成后，再回到 GitHub Page 模块，
-你会看到一行提示：` Your site is published at https://lillianlin2018.github.io/`
+你会看到一行提示：
+` Your site is published at https://lillianlin2018.github.io/`
 https://xxxxx.github.io （xxxxx是你一开始注册的 github 账号名）就是你的博客的页面网址了。
 ![](/assets/img/blog/blog5.png)
 
