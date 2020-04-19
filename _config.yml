@@ -18,7 +18,6 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
-  tags: '/aboutme.html'
 # Footer
 footer:
   since: 2020
