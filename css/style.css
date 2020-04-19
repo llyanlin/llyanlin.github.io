@@ -178,7 +178,7 @@ p {
 /*--//about--*/
 /*--work--*/
 .work {
-    background: #fff;
+    background: url(../images/workbg.png);
 }
 
 .glyli li {
