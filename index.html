@@ -1,7 +1,7 @@
 ---
 layout: default
-home-title: LillianLin 的博客
-description: 很高兴能在这里与你分享我对技术和生活的思考
+home-title: YoYo 活动线报网
+description: 网罗周边好吃好玩、经济实惠的活动信息
 header-img: assets/img/banner.jpg
 ---
 
@@ -52,9 +52,9 @@ header-img: assets/img/banner.jpg
         {% if paginator.total_pages > 1 %}
             {% include pageNav.html %}
         {% endif %}
-
+    
     </div>
-
+    
     <aside class="g-sidebar-wrapper">
         <div class="g-sidebar">
             <section class="author-card">
@@ -77,7 +77,7 @@ header-img: assets/img/banner.jpg
                 </ul>
                 {% endif %}
             </section>
-
+    
             {% if site.recommend-tags and site.tags.size>0 %}
             <section class="tags-card">
                 {% for tag in site.tags %}
@@ -89,7 +89,7 @@ header-img: assets/img/banner.jpg
             </section>
             {% endif %}
         </div>
-
+    
         {% if site.search %}
         <div class="search-card">
             <input id="search_input" type="text" placeholder="Search..." autocomplete="off">
@@ -97,7 +97,7 @@ header-img: assets/img/banner.jpg
             <div class="search_result"></div>
         </div>
         {% endif %}
-
+    
     </aside>
 
 </main>
